@@ -1,0 +1,13 @@
+{
+    "name": "xReader",
+    "description": "Enhance your reading experiance",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "editor.js"
+    },
+    "permissions": ["storage", "tabs", "activeTab"],
+    "action": {
+        "default_popup": "default_page.html"
+    }
+}
