@@ -1,6 +1,6 @@
 {
     "name": "xReader",
-    "description": "Enhance your reading experiance and build a more immersive experiance.",
+    "description": "Enhance your reading experiance with xReader",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
