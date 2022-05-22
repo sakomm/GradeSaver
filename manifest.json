@@ -1,7 +1,7 @@
 {
-    "name": "xReader",
-    "description": "Enhance your reading experiance with xReader",
-    "version": "1.0",
+    "name": "GradeChanger",
+    "description": "Edit Your Grade, and save yourself from the pain",
+    "version": "1.1",
     "manifest_version": 3,
     "background": {
         "service_worker": "editor.js"
